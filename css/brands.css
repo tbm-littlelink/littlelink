@@ -1097,3 +1097,22 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* OLX */
+.button.button-olx {
+  color: #ffffff;
+  background-color: #002f34;
+}
+.button.button-olx:hover,
+.button.button-olx:focus {
+  filter: brightness(90%);
+}
+
+/* Google Sheets */
+.button.button-google-sheets {
+  color: #ffffff;
+  background-color: #34a853;
+}
+.button.button-google-sheets:hover,
+.button.button-google-sheets:focus {
+  filter: brightness(90%);
+}
